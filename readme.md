@@ -28,7 +28,7 @@ Data Pusher provides a flexible system for managing accounts, destinations, and 
 1. Clone the repository:
    ```
    git clone https://github.com/kaviarasanmani/Data-Pusher-Webhook-Integrationt
-   cd data-pusher
+   cd Data-Pusher-Webhook-Integration.git
    ```
 
 2. Create and activate a virtual environment:
